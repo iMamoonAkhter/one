@@ -62,3 +62,18 @@ git config --list
 
 
 //Git Branches and Conflicts
+
+
+git branch //show all branches 
+//Create a new Branch
+git branch <Branch-Name>
+//Switch to other branches
+git switch <Branch-Name>
+//Back to Master Branch
+git switch master 
+
+//create new branch and switch automatically
+git switch -c <Branch-Name>
+
+//switch to branch
+git checkout <branch-name>
