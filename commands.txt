@@ -1,0 +1,56 @@
+//Check your git version
+git version
+
+//check directory
+pwd 
+
+//Create Repositary
+git init //start tracking / working directory
+git add // staging add
+git commit // repo 
+git push // push code to git repositary 
+
+// when create file then go to staging area
+git add <filename> //specific file
+git add . // all files in staging area
+
+//After add then commit
+git commit -m "your message"
+
+// check file who commit
+git log
+
+//unstage file (convert file staging to unstaging)
+git rm --cached <file>
+
+
+//check hidden folder
+ls -la
+
+// check Repositary 
+git status
+
+
+//Config Setting
+git config --global user.email "your-email@gmail.com"
+git config --global user.name "Your Name"
+
+
+
+
+
+
+
+
+
+
+
+// when file changing
+git status
+git add <file> // stagging area
+git commit -m "message"
+git log or git log --oneline // check file commit
+
+
+//Check config check github account link
+git config --list
