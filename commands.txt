@@ -54,3 +54,11 @@ git log or git log --oneline // check file commit
 
 //Check config check github account link
 git config --list
+
+
+
+
+
+
+
+//Git Branches and Conflicts
