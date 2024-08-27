@@ -7,7 +7,7 @@ pwd
 //Create Repositary
 git init //start tracking / working directory
 git add // staging add
-git commit // repo 
+git commit -m "<message>"// repo 
 git push // push code to git repositary 
 
 // when create file then go to staging area
