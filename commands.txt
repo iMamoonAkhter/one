@@ -77,3 +77,6 @@ git switch -c <Branch-Name>
 
 //switch to branch
 git checkout <branch-name>
+
+//merge branch to main
+git merge <Branch-Name>
