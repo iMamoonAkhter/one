@@ -125,4 +125,6 @@ git remote -v
 
 link remote origin
 git remote add origin <repositary-link>
-git push origin main 
+git push origin main // first time
+//upstream set git push -u origin main
+git push 
